@@ -1,5 +1,7 @@
 ## DrakonForge Studios
 
+[Modtale](https://modtale.net/creator/DrakonForgeStudios) | [Discord](https://discord.com/invite/Yd8hGBwymr)
+
 We are a team of hobbyist game developers, currently creating [mods for Hytale](https://modtale.net/creator/DrakonForgeStudios)! Our specialty is in creating deep gameplay systems and designer-friendly tools to enable modders to create awesome experiences.
 
 Our Hytale modding tenets are outlined below.
